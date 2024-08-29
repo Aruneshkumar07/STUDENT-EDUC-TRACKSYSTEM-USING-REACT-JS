@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/STUDENT-EDUC-TRACKSYSTEM-USING-REACT-JS/static/css/main.2a715065.css",
+    "main.js": "/STUDENT-EDUC-TRACKSYSTEM-USING-REACT-JS/static/js/main.04c4e837.js",
+    "index.html": "/STUDENT-EDUC-TRACKSYSTEM-USING-REACT-JS/index.html",
+    "main.2a715065.css.map": "/STUDENT-EDUC-TRACKSYSTEM-USING-REACT-JS/static/css/main.2a715065.css.map",
+    "main.04c4e837.js.map": "/STUDENT-EDUC-TRACKSYSTEM-USING-REACT-JS/static/js/main.04c4e837.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a715065.css",
+    "static/js/main.04c4e837.js"
+  ]
+}
