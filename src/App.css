@@ -1,0 +1,109 @@
+.sidenav {
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color:blue;
+  padding-top: 20px;
+  display:flex;
+  flex-direction: column;
+  
+  /* position:relative; */
+}
+.sidenav div{
+  flex:1;
+}
+.sidenav ul i{
+  margin:10px;
+}
+.sidenav h2 {
+  color: white;
+  text-align: center;
+}
+
+.sidenav ul {
+  list-style-type: none;
+  padding: 0;
+  font-size: xx-large;
+  margin-top:85px;
+}
+
+.sidenav ul li {
+  padding: 10px ;
+  text-align: center;
+  justify-content: center;
+}
+
+.sidenav ul li a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  border-radius: 10px;
+  transition: 0.2s;
+  padding:45px 22px;
+}
+
+.sidenav ul li a:hover {
+  background-color: rgb(159, 255, 255);
+  color:black;
+}
+.logo{
+  position:absolute;
+}
+
+.logo img{
+  width:100%;
+}
+
+.menu{
+  display: flex;
+  justify-content: center;
+}
+/* ================================ */
+#head1{
+  margin-left: 96px;
+  margin-top: 0px;
+}
+#heading{
+  background-color: rgb(27, 27, 117);
+  padding: 20px;
+  margin: 0px;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
+#overall{
+  margin-left: 100px;
+  display: flex;
+  margin: 200px;
+  margin-top: 30px;
+}
+#overall div{
+  flex:1;
+  margin:20px;
+  padding: 30px;
+  font-size:70px;
+  text-align: left;
+}
+#card1{
+  background-color: red;
+  border-radius: 2px solid;
+}
+#card2{
+  background-color: green;
+}
+#card3{
+  background-color: blue;
+}
+p{
+  float: right;
+}
+.menu-options{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
+.opts{
+  color:navy;
+  text-align: center;
+  margin:20px;
+  padding:30px;
+}
